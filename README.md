@@ -3,12 +3,11 @@
 
 ---
 
-Desenvolvedor Full Stack com foco em PHP, JavaScript e automações com IA. Tenho experiência construindo aplicações web do zero — do banco de dados à interface — e integrando serviços como WhatsApp, Google Calendar e modelos de linguagem (LLMs) em fluxos reais de uso.
+Desenvolvedor Full Stack com foco em PHP, JavaScript e automações com IA. Tenho experiência construindo aplicações web do zero do banco de dados à interface e integrando serviços como WhatsApp, Google Calendar, gateways de pagamento (Stripe, Asaas, Pay2M) e modelos de linguagem (LLMs) em fluxos reais de uso.
 
-Atualmente trabalhando em projetos próprios de finanças pessoais e agendamento inteligente via WhatsApp.
+Atualmente atuo como desenvolvedor numa empresa de soluções para telecomunicações e, em paralelo, toco projetos próprios.
 
 ---
-
 
 ## 📊 GitHub Stats
 
